@@ -1,2 +1,2 @@
 # Deep-RL
-Includes certifacte received by Coursera Reinforcement Learning Specialization
+Includes certifacte received from Coursera Reinforcement Learning Specialization
